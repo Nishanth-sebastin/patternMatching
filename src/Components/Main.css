@@ -1,0 +1,28 @@
+.mainDiv {
+  margin: 30px;
+}
+
+.patternpage {
+  display: flex;
+  justify-content: space-evenly;
+}
+.image {
+  border: 2px green solid;
+}
+.Text {
+  border: 2px blue solid;
+}
+
+.fruits {
+  width: 180px;
+  height: 150px;
+  border: 2px hotpink solid;
+  text-align: center;
+}
+
+.fruitsName {
+  width: 180px;
+  height: 150px;
+  border: 2px hotpink solid;
+  text-align: center;
+}
